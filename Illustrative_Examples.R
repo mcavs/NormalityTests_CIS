@@ -1,6 +1,10 @@
+# -------------------------------------------------------------------------------------------------
+# R Codes to reproduce the results on paper:
 # PENALIZED POWER PROPERTIES OF THE NORMALITY TESTS IN THE PRESENCE OF OUTLIERS
-# Apr 24, 2021
 
+# Created by: Mustafa Cavus in Apr 24, 2021
+# Contact: mustafacavus@eskisehir.edu.tr
+# -------------------------------------------------------------------------------------------------
 # Example I
 export_data <- data.frame(value = c(80.139, 58.153, 110.137, 304.556, 172.599, 0.0230, 
                                     38.129, 198.344, 175.034, 379.846, 17.832, 23.888, 
